@@ -1,0 +1,1 @@
+# motion_detect_img_to_azure
